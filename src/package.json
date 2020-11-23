@@ -1,0 +1,15 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Learn Gulp by building an awesome development environment",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": "https://github.com/sanghuncheong/supergulp.git",
+  "author": "SangHun Cheong <welovehun91@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "^4.0.2"
+  }
+}
